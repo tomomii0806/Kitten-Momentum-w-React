@@ -1,28 +1,39 @@
-import React from 'react';
-import logo from './logo.svg';
+//import React from 'react';
 import './App.css';
-import Contact from "./Contact";
+import Contacts from "./Contacts";
+import Clock from "./Clock";
+import React, { Component } from 'react';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <div>Hello who are you?</div>
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+let time = new Date().toLocaleString();
+
+class App extends Component {
+  constructor(props) {
+    super(props);
+      this.state = {
+        contacts: [],
+    };
+  }
+  render(){
+    return(    
+      <div>
+          <Clock></Clock>
+          <Contacts contacts={this.state.contacts} />
+      </div>
+        
+    )
+  }
+    
+    
+
+componentDidMount() {
+
+  fetch('https://api.thecatapi.com/v1/images/search')
+  .then(results => {return results.json(); })
+  .then((data) => { this.setState({ contacts: data })
+  })
+  .catch(console.log)
+}
+  
 }
 
 export default App;

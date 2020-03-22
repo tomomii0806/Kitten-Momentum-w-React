@@ -1,0 +1,9 @@
+#kitty-img {
+    width: 100%;
+    height: 500px;
+}
+
+#kitty-img img{
+    /*width: 50%;*/
+    height: 100%;
+}
