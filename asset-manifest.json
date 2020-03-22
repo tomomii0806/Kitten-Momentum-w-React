@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/hello-react/static/css/main.5e861914.chunk.css",
-    "main.js": "/hello-react/static/js/main.b512170a.chunk.js",
-    "main.js.map": "/hello-react/static/js/main.b512170a.chunk.js.map",
-    "runtime-main.js": "/hello-react/static/js/runtime-main.a37268f6.js",
-    "runtime-main.js.map": "/hello-react/static/js/runtime-main.a37268f6.js.map",
-    "static/js/2.368a41ff.chunk.js": "/hello-react/static/js/2.368a41ff.chunk.js",
-    "static/js/2.368a41ff.chunk.js.map": "/hello-react/static/js/2.368a41ff.chunk.js.map",
-    "index.html": "/hello-react/index.html",
-    "precache-manifest.d74a3f43a341eabeeee8e58623610f80.js": "/hello-react/precache-manifest.d74a3f43a341eabeeee8e58623610f80.js",
-    "service-worker.js": "/hello-react/service-worker.js",
-    "static/css/main.5e861914.chunk.css.map": "/hello-react/static/css/main.5e861914.chunk.css.map",
-    "static/js/2.368a41ff.chunk.js.LICENSE.txt": "/hello-react/static/js/2.368a41ff.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/hello-react/static/media/logo.5d5d9eef.svg"
+    "main.css": "/Kitten-Momentum-w-React/static/css/main.9ecc0bc0.chunk.css",
+    "main.js": "/Kitten-Momentum-w-React/static/js/main.49683f6f.chunk.js",
+    "main.js.map": "/Kitten-Momentum-w-React/static/js/main.49683f6f.chunk.js.map",
+    "runtime-main.js": "/Kitten-Momentum-w-React/static/js/runtime-main.ddcfc852.js",
+    "runtime-main.js.map": "/Kitten-Momentum-w-React/static/js/runtime-main.ddcfc852.js.map",
+    "static/js/2.f7f9f04c.chunk.js": "/Kitten-Momentum-w-React/static/js/2.f7f9f04c.chunk.js",
+    "static/js/2.f7f9f04c.chunk.js.map": "/Kitten-Momentum-w-React/static/js/2.f7f9f04c.chunk.js.map",
+    "index.html": "/Kitten-Momentum-w-React/index.html",
+    "precache-manifest.fc6f04c31199067c7586927a85368c02.js": "/Kitten-Momentum-w-React/precache-manifest.fc6f04c31199067c7586927a85368c02.js",
+    "service-worker.js": "/Kitten-Momentum-w-React/service-worker.js",
+    "static/css/main.9ecc0bc0.chunk.css.map": "/Kitten-Momentum-w-React/static/css/main.9ecc0bc0.chunk.css.map",
+    "static/js/2.f7f9f04c.chunk.js.LICENSE.txt": "/Kitten-Momentum-w-React/static/js/2.f7f9f04c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a37268f6.js",
-    "static/js/2.368a41ff.chunk.js",
-    "static/css/main.5e861914.chunk.css",
-    "static/js/main.b512170a.chunk.js"
+    "static/js/runtime-main.ddcfc852.js",
+    "static/js/2.f7f9f04c.chunk.js",
+    "static/css/main.9ecc0bc0.chunk.css",
+    "static/js/main.49683f6f.chunk.js"
   ]
 }
