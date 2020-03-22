@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Kitten-Momentum-w-React/precache-manifest.fc6f04c31199067c7586927a85368c02.js"
+  "/Kitten-Momentum-w-React/precache-manifest.1782023992c28e3ae736a39cc101404d.js"
 );
 
 self.addEventListener('message', (event) => {
