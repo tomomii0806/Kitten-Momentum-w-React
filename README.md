@@ -1,3 +1,15 @@
+## Kitten Momentum
+
+This is a web home page with a clock and cat picture, which is similar to Google momentum.
+- Built with react
+- Used "THE CAT API" to fetch cat images (link: https://api.thecatapi.com/v1/images/search)
+- Added a button to reflesh new cat image
+- Added a clock using Date()
+
+More functions will be added soon...
+
+
+ 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
