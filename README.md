@@ -6,7 +6,16 @@ This is a web home page with a clock and cat picture, which is similar to Google
 - Added a button to reflesh new cat image
 - Added a clock using Date()
 
+
 More functions will be added soon...
+
+Click this link to try: https://tomomii0806.github.io/Kitten-Momentum-w-React/
+
+<img width="1428" alt="image" src="https://github.com/user-attachments/assets/08509530-e105-4d8e-9672-586cd850d271" />
+
+<img width="1434" alt="image" src="https://github.com/user-attachments/assets/e87010f5-9d9d-4477-9ecc-c69010c56f68" />
+
+
 
 
  
